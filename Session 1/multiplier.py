@@ -25,5 +25,4 @@ def multiplier(x):
         print(multiplied_value)
 
 
-
 multiplier(15)
