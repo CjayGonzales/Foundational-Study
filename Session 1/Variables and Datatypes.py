@@ -36,7 +36,7 @@ def data_sort(x):
         print("I am a frozenset: " + str(x))
     
 # data_sort(complex(3, 2))
-data_sort(2)
+data_sort(i)
 
 
 
