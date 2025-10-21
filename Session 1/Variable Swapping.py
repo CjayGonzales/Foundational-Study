@@ -1,7 +1,7 @@
 # create a function that swaps different variables to another variable.
 
 # 1: Define the function with parameter of the variable
-# 2: Store the variable
+# 2: Store the variable in a seperate variable
 # 3: Return the new variable
 
 
