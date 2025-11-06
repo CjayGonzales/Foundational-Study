@@ -1,5 +1,3 @@
-
-
 def print_name():
     print("Please put in your name!")
 
